@@ -1,7 +1,7 @@
 """
 RPN Calculator Stack Implementation
 Loren Pena
-Purpose of this assignment is to create a Reverse Polish Notation (RPN) calculator using NumPy arrays and stack.
+Purpose of this is to create a Reverse Polish Notation (RPN) calculator using NumPy arrays and stack.
 """
 
 import numpy as np
